@@ -1,0 +1,12 @@
+{
+    "postProcessing": false,
+    "decorate": false,
+    "environment": "NORMAL",
+    "regions": ["flat"],
+    "caves": false,
+    "name": "Redstone",
+    "fluidHeight": 0,
+    "carving": false,
+    "placeObjects": false,
+    "version": 1
+}

@@ -1,0 +1,23 @@
+{
+    "name": "Flat",
+    "derivative": "PLAINS",
+    "layers": [
+        {
+            "palette": [
+                "WHITE_CONCRETE"
+            ],
+            "maxHeight": 2,
+            "minHeight": 2,
+            "style": {
+                "style": "FLAT"
+            }
+        }
+    ],
+    "generators": [
+        {
+            "generator": "flat",
+            "min": 2,
+            "max": 2
+        }
+    ]
+}
