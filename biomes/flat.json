@@ -4,7 +4,9 @@
     "layers": [
         {
             "palette": [
-                "WHITE_CONCRETE"
+                {
+                    "block": "white_concrete"
+                }
             ],
             "maxHeight": 2,
             "minHeight": 2,
